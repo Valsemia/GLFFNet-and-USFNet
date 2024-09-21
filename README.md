@@ -1,5 +1,6 @@
 # A Two-Stage Shadow Removal Approach with Enhanced Feature Fusion and Attention for Improved Shadow Detection and Recovery
 The weights of U2net in GLFFNet: https://drive.google.com/drive/folders/19c6MHGC-IhlXjKhA-iIM43qQ5mQQ3G0G?usp=drive_link
+The source can be found in the references of the article.
 ## Datasets
 We used the SBU, ISTD, and UCF datasets in the paper, and the sources of the datasets are cited in the references. Dataset sharing links can be provided here, https://drive.google.com/drive/folders/1C4e8G8RlR8QVGXj5-wi8RWB7mx8nwu29?usp=drive_link
 ## Metrics
